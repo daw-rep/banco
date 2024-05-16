@@ -9,7 +9,7 @@ require '../src/CuentaBanco.php';
 
 $cuenta1 = new CuentaBanco(50);
 
-$cuenta3 = new CuentaBanco(3000);
+$cuenta3 = new CuentaBanco(1000);
 
 $cuenta1->ingreso(100);
 
